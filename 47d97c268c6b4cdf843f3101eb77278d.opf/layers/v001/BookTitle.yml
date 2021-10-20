@@ -1,4 +1,14 @@
 id: 81b384134cd647aa97bd83b6d940aab4
 annotation_type: BookTitle
-revision: '00001'
-annotations: {}
+revision: '00005'
+annotations:
+  f367649c2ffc4a148ae4eb646ac8330d:
+    span:
+      start: 291
+      end: 320
+    metadata: {}
+  7b02235c4c7f473fa7a16a3b0b5f24ab:
+    span:
+      start: 322
+      end: 391
+    metadata: {}
